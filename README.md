@@ -17,7 +17,7 @@ N/A
 
 N/A
 
-## ![alt text](LICENSE)
+## ![License](LICENSE)
 
 🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
